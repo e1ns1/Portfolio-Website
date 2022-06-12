@@ -60,12 +60,13 @@
 
 .navigation-list li {
   display: inline-block;
-  margin-left: 15px;
+  margin-left: 5px;
+  margin-top: 10px;
 }
 
 nav.container a {
   text-decoration: none;
-  font: 20px var(--main-font);
+  font: 16px var(--main-font);
   margin: 0px 10px;
   padding: 5px 5px;
   position: relative;
