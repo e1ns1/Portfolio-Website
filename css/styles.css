@@ -113,7 +113,7 @@ nav.borderYtoX a:hover:before, nav.borderYtoX a:hover:after
 }
 .grid {
   padding: 50px;
-  margin-bottom: 10px;
+  margin-bottom: 110px;
   text-align: center;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
@@ -129,6 +129,7 @@ nav.borderYtoX a:hover:before, nav.borderYtoX a:hover:after
 /* Colors,Text and Buttons */
 main {
   margin: 50px;
+  margin-bottom: 110px;
 }
 .about {
   text-align: center;
